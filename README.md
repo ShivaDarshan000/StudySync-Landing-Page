@@ -21,6 +21,8 @@ StudySync showcases a sleek design with sections for features, testimonials, new
 
 ✅ Clean footer with social links and multi-column layout
 
+---
+
 🛠️ Tech Stack
 
 HTML5
@@ -28,6 +30,8 @@ HTML5
 CSS3 (Flexbox + Grid + Media Queries)
 
 Google Fonts (Inter)
+
+---
 
 📸 Preview
 <img width="1900" height="934" alt="image" src="https://github.com/user-attachments/assets/3d1ef5b1-7ccc-486c-abdb-a1684cef2e69" />
