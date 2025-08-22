@@ -3,6 +3,8 @@
 A modern, responsive landing page built using HTML and CSS.
 StudySync showcases a sleek design with sections for features, testimonials, newsletter subscription, and a footer — ideal for practicing responsive layouts, Flexbox, and Grid.
 
+---
+
 🚀 Features
 
 ✅ Responsive navigation bar with mobile hamburger menu
